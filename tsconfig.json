@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    // Your compiler options, if any
+  },
+  "include": ["src/**/*.tsx", "src/**/*.ts"] // Adjust this based on your project structure
+}
